@@ -1,5 +1,4 @@
 ## Description
-This is a set of scripts, tips, tricks and snippets for various tasks performed on MikroTik routers. Some of the scripts and their usage is well described in articles on https://www.dasm.cz/tag/mikrotik (written in Czech). Use them at your own risk as there is often some context or additional configuration needed.
 
 ### 6to4
 Snippets for 6to4 tunneling setup on IPv4 networks with public IP terminated on MikroTik.
