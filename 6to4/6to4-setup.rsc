@@ -25,3 +25,5 @@ ipconfig /flushdns
 
 For IPv4: 1.1.1.1 and 1.0.0.1
 For IPv6: 2606:4700:4700::1111 and 2606:4700:4700::1001
+
+# Test sites http://ipv6-test.com/
